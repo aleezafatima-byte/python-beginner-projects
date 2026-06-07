@@ -1,6 +1,6 @@
 # python-beginner-projects
 
-## Temperature Converter
+## 1. Temperature Converter
 
 A beginner Python project that converts Celsius into Fahrenheit and Kelvin.
 
