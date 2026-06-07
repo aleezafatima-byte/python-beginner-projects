@@ -12,3 +12,35 @@ A beginner Python project that converts Celsius into Fahrenheit and Kelvin.
 ### Language
 
 Python
+
+
+## 2. Simple Calculator
+
+A beginner Python project that performs basic mathematical operations on two numbers.
+
+### Features
+
+-Addition
+-Subtraction
+-Multiplication
+-Division
+-Power calculation
+-Percentage calculation
+-Remainder calculation
+
+### Language
+
+Python
+
+
+## 3. Unit Converter
+
+A beginner Python project that converts values between different units of measurement.
+
+### Features
+
+- Length conversion
+
+### Language
+
+Python
