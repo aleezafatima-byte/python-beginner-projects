@@ -20,13 +20,13 @@ A beginner Python project that performs basic mathematical operations on two num
 
 ### Features
 
--Addition
--Subtraction
--Multiplication
--Division
--Power calculation
--Percentage calculation
--Remainder calculation
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power calculation
+- Percentage calculation
+- Remainder calculation
 
 ### Language
 
