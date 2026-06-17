@@ -2,7 +2,6 @@ print("FACTORIAL CALCULATOR")
 
 n=int(input("enter n="))
 
-
 if n== 0:
     print("Factorial of 0 (0!) is 1")
 elif n<0:
