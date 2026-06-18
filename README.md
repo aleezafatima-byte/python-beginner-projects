@@ -4,98 +4,201 @@ A collection of beginner-friendly Python projects created while learning program
 
 The repository includes mathematical calculators, sequence generators, unit converters, and physics-based applications.
 
+## Skills Demonstrated
+
+* Python fundamentals
+* Variables and data types
+* User input and output
+* Conditional statements
+* Loops
+* Mathematical computations
+* Problem solving
+* Basic error handling
+* Scientific notation
+* Physics-based programming
+
+## Projects
+
 ## 1. Temperature Converter
 
 A beginner Python project that converts Celsius into Fahrenheit and Kelvin.
 
-### Features
+#### Features
 
-- Celsius to Fahrenheit conversion
-- Celsius to Kelvin conversion
+* Celsius to Fahrenheit conversion
+* Celsius to Kelvin conversion
 
-### Language
+#### Concepts Used
+
+* Variables
+* User input
+* Arithmetic operators
+* Mathematical formulas
+* Output formatting
+
+#### Language
 
 Python
+
+---
 
 ## 2. Simple Calculator
 
 A beginner Python project that performs basic mathematical operations on two numbers.
 
-### Features
+#### Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Power calculation
-- Percentage calculation
-- Remainder calculation
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Power calculation
+* Percentage calculation
+* Remainder calculation
 
-### Language
+#### Concepts Used
+
+* Variables
+* User input
+* Arithmetic operators
+* Conditional statements (`if`, `elif`, `else`)
+* Mathematical computations
+* Output formatting
+
+#### Language
 
 Python
+
+---
 
 ## 3. Unit Converter
 
 A beginner Python project that converts values between different units of measurement.
 
-### Features
+#### Features
 
-- Length conversion
+* Length conversion
 
-### Language
+#### Concepts Used
+
+* Variables
+* User input
+* Arithmetic operators
+* Unit conversion formulas
+* Conditional statements (`if`, `elif`, `else`)
+* Output formatting
+
+#### Language
 
 Python
+
+---
 
 ## 4. Factorial Calculator
 
 A beginner Python project that calculates the factorial of a given number.
 
-### Features
+#### Features
 
 * Calculates factorial using loops
 * Handles positive integers
 * Displays the factorial result
 
-### Language
+#### Concepts Used
+
+* Variables
+* User input
+* Loops (`for`)
+* Conditional statements (`if`, `elif`, `else`)
+* Mathematical computations
+
+#### Language
 
 Python
 
-## 5. Fibonacci Generator
+---
+
+## 5. Prime Number Checker
+
+A beginner Python project that determines whether a given number is prime or not.
+
+#### Features
+
+* Accepts user input
+* Checks if a number is prime
+* Identifies non-prime numbers
+* Uses loops and conditional statements
+* Displays the result clearly
+
+#### Concepts Used
+
+* Variables
+* User input
+* Conditional statements (`if`, `elif`, `else`)
+* Loops (`for`)
+* Modulus operator (`%`)
+
+#### Language
+
+Python
+
+---
+
+## 6. Fibonacci Generator
 
 A beginner Python project that generates the Fibonacci sequence up to a specified number of terms.
 
-### Features
+#### Features
 
 * Generates Fibonacci numbers
 * User-defined sequence length
 * Displays the complete sequence
 
-### Language
+#### Concepts Used
+
+* Variables
+* User input
+* Loops (`for`)
+* Sequence generation
+* Multiple variable updates
+
+#### Language
 
 Python
 
-## 6. Numerical Summation Program
+---
+
+## 7. Numerical Summation Program
 
 A beginner Python project that calculates the sum of a sequence of numbers.
 
-### Features
+#### Features
 
 * Sum of the first n natural numbers
 * Uses loops for iterative addition
 * Displays the final summation result
 
-### Language
+#### Concepts Used
+
+* Variables
+* User input
+* Loops (`for`)
+* Accumulators
+* Arithmetic operators
+
+#### Language
 
 Python
 
-## 7. Physics Formula Calculator
+---
+
+## 8. Physics Formula Calculator
 
 A Python-based mechanics calculator that computes a variety of physical quantities using fundamental equations from classical physics.
 
-### Features
+#### Features
 
-#### Kinematics
+##### Kinematics
 
 * Velocity at time t
 * Displacement at time t
@@ -103,7 +206,7 @@ A Python-based mechanics calculator that computes a variety of physical quantiti
 * Acceleration
 * Average speed
 
-#### Forces and Motion
+##### Forces and Motion
 
 * Force on an object
 * Weight
@@ -111,38 +214,38 @@ A Python-based mechanics calculator that computes a variety of physical quantiti
 * Gravitational force
 * Centripetal force
 
-#### Energy and Work
+##### Energy and Work
 
 * Potential energy
 * Kinetic energy
 * Work done
 * Power
 
-#### Momentum
+##### Momentum
 
 * Momentum
 * Impulse
 
-#### Rotational Mechanics
+##### Rotational Mechanics
 
 * Angular velocity
 * Torque
 
-#### Gravitation
+##### Gravitation
 
 * Escape velocity
 
-#### Material Properties
+##### Material Properties
 
 * Density
 
-### Error Handling
+#### Error Handling
 
 * Prevents division by zero where applicable
 * Checks for invalid square root calculations
 * Handles invalid menu selections
 
-### Concepts Used
+#### Concepts Used
 
 * Variables and data types
 * User input and output
@@ -152,10 +255,12 @@ A Python-based mechanics calculator that computes a variety of physical quantiti
 * Physics formulas
 * Basic error handling
 
-### Language
+#### Language
 
 Python
 
-### Learning Outcomes
+#### Learning Outcomes
 
 This project demonstrates the application of Python programming to classical mechanics problems and serves as an introductory computational physics project.
+
+---
