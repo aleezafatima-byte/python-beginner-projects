@@ -1,5 +1,9 @@
 # python-beginner-projects
 
+A collection of beginner-friendly Python projects created while learning programming, problem solving, and computational physics concepts.
+
+The repository includes mathematical calculators, sequence generators, unit converters, and physics-based applications.
+
 ## 1. Temperature Converter
 
 A beginner Python project that converts Celsius into Fahrenheit and Kelvin.
