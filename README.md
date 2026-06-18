@@ -13,7 +13,6 @@ A beginner Python project that converts Celsius into Fahrenheit and Kelvin.
 
 Python
 
-
 ## 2. Simple Calculator
 
 A beginner Python project that performs basic mathematical operations on two numbers.
@@ -32,7 +31,6 @@ A beginner Python project that performs basic mathematical operations on two num
 
 Python
 
-
 ## 3. Unit Converter
 
 A beginner Python project that converts values between different units of measurement.
@@ -44,7 +42,6 @@ A beginner Python project that converts values between different units of measur
 ### Language
 
 Python
-
 
 ## 4. Factorial Calculator
 
@@ -88,3 +85,73 @@ A beginner Python project that calculates the sum of a sequence of numbers.
 
 Python
 
+## 7. Physics Formula Calculator
+
+A Python-based mechanics calculator that computes a variety of physical quantities using fundamental equations from classical physics.
+
+### Features
+
+#### Kinematics
+
+* Velocity at time t
+* Displacement at time t
+* Velocity after displacement
+* Acceleration
+* Average speed
+
+#### Forces and Motion
+
+* Force on an object
+* Weight
+* Pressure
+* Gravitational force
+* Centripetal force
+
+#### Energy and Work
+
+* Potential energy
+* Kinetic energy
+* Work done
+* Power
+
+#### Momentum
+
+* Momentum
+* Impulse
+
+#### Rotational Mechanics
+
+* Angular velocity
+* Torque
+
+#### Gravitation
+
+* Escape velocity
+
+#### Material Properties
+
+* Density
+
+### Error Handling
+
+* Prevents division by zero where applicable
+* Checks for invalid square root calculations
+* Handles invalid menu selections
+
+### Concepts Used
+
+* Variables and data types
+* User input and output
+* Conditional statements (`if`, `elif`, `else`)
+* Mathematical operators
+* Scientific notation
+* Physics formulas
+* Basic error handling
+
+### Language
+
+Python
+
+### Learning Outcomes
+
+This project demonstrates the application of Python programming to classical mechanics problems and serves as an introductory computational physics project.
