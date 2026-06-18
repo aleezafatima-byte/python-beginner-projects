@@ -12,6 +12,9 @@ The repository includes mathematical calculators, sequence generators, unit conv
 * Conditional statements
 * Loops
 * Mathematical computations
+* Mathematical formulas
+* Unit-aware calculations
+* Algorithmic thinking
 * Problem solving
 * Basic error handling
 * Scientific notation
