@@ -262,8 +262,40 @@ A Python-based mechanics calculator that computes a variety of physical quantiti
 
 Python
 
-#### Learning Outcomes
 
-This project demonstrates the application of Python programming to classical mechanics problems and serves as an introductory computational physics project.
+# 9. Matrix Multiplication with NumPy
+
+A beginner-friendly Python project that demonstrates matrix multiplication using the NumPy library. ]
+
+### Features
+
+* Creates matrices using NumPy arrays
+* Performs matrix multiplication using `np.dot()`
+* Displays the resulting matrix
+* Introduces numerical computing with Python
+
+### Concepts Used
+
+* NumPy
+* Arrays
+* Matrix operations
+* Linear algebra
+* Function usage
+* Numerical computation
+
+### Language
+
+Python
+
+## Learning Outcomes
+
+## Learning Outcomes
+
+This repository demonstrates the application of Python programming to mathematical computations, problem-solving, numerical methods, and introductory computational physics concepts. Through these projects, learners develop a strong foundation in programming fundamentals, including variables, data types, user input and output, conditional statements, loops, functions, and basic error handling.
+
+The projects provide hands-on experience in implementing mathematical formulas, sequence generation, unit conversions, matrix operations, and classical physics calculations. They also introduce scientific computing concepts through the use of NumPy and numerical computation techniques.
+
+By completing these projects, learners strengthen their algorithmic thinking, computational problem-solving skills, and ability to translate mathematical and physical concepts into working Python programs. The repository serves as a stepping stone toward more advanced topics in computational physics, scientific computing, data analysis, numerical methods, and engineering applications.
+
 
 ---
