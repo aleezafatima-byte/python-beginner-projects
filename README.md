@@ -10,15 +10,21 @@ The repository includes mathematical calculators, sequence generators, unit conv
 * Variables and data types
 * User input and output
 * Conditional statements
-* Loops
+* Loops and iteration
+* Arithmetic operators
 * Mathematical computations
 * Mathematical formulas
-* Unit-aware calculations
+* Unit conversion techniques
 * Algorithmic thinking
 * Problem solving
 * Basic error handling
 * Scientific notation
 * Physics-based programming
+* Scientific computing fundamentals
+* NumPy fundamentals
+* Arrays and matrix operations
+* Linear algebra basics
+
 
 ## Projects
 
