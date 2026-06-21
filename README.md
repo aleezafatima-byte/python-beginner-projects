@@ -1,4 +1,4 @@
-# python-beginner-projects
+# Python-Beginner-Projects
 
 A collection of beginner-friendly Python projects created while learning programming, problem solving, and computational physics concepts.
 
