@@ -11,7 +11,7 @@ B= np.array([
     [7,8]
 ])
 
-C= np.dot(A,B)
+C= np.matmul(A,B)
 
 print(C)
 
