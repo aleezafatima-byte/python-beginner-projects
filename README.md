@@ -301,24 +301,24 @@ Python
 A beginner-friendly Python project that performs matrix multiplication using nested loops and user-defined matrices. The program accepts matrix dimensions and elements from the user, verifies whether multiplication is possible, and computes the resulting matrix using the standard matrix multiplication algorithm.
 
 #### Features
-*Accepts custom matrix sizes
-*Takes matrix elements as user input
-*Displays both input matrices
-*Checks matrix multiplication compatibility
-*Performs matrix multiplication using nested loops
-*Displays the resulting matrix
-*Handles invalid matrix dimensions gracefully
+* Accepts custom matrix sizes
+* Takes matrix elements as user input
+* Displays both input matrices
+* Checks matrix multiplication compatibility
+* Performs matrix multiplication using nested loops
+* Displays the resulting matrix
+* Handles invalid matrix dimensions gracefully
 
 #### Concepts Used
-*Variables and data types
-*User input and output
-*Nested loops (for)
-*Lists and list operations
-*Matrix representation using lists
-*Conditional statements (if, else)
-*Matrix multiplication algorithm
-*Algorithmic thinking
-*Problem solving
+* Variables and data types
+* User input and output
+* Nested loops (for)
+* Lists and list operations
+* Matrix representation using lists
+* Conditional statements (if, else)
+* Matrix multiplication algorithm
+* Algorithmic thinking
+* Problem solving
 
 #### Language
 
