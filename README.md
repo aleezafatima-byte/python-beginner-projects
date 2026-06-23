@@ -24,7 +24,10 @@ The repository includes mathematical calculators, sequence generators, unit conv
 * NumPy fundamentals
 * Arrays and matrix operations
 * Linear algebra basics
-
+* Nested loops
+* 2D lists
+* Matrix multiplication algorithms
+* Array-like data structures
 
 ## Projects
 
@@ -269,18 +272,18 @@ A Python-based mechanics calculator that computes a variety of physical quantiti
 Python
 
 
-# 9. Matrix Multiplication with NumPy
+## 9. Matrix Multiplication with NumPy
 
 A beginner-friendly Python project that demonstrates matrix multiplication using the NumPy library. ]
 
-### Features
+#### Features
 
 * Creates matrices using NumPy arrays
 * Performs matrix multiplication using `np.dot()`
 * Displays the resulting matrix
 * Introduces numerical computing with Python
 
-### Concepts Used
+#### Concepts Used
 
 * NumPy
 * Arrays
@@ -289,11 +292,38 @@ A beginner-friendly Python project that demonstrates matrix multiplication using
 * Function usage
 * Numerical computation
 
-### Language
+#### Language
 
 Python
 
-## Learning Outcomes
+## 10. Matrix Multiplication
+
+A beginner-friendly Python project that performs matrix multiplication using nested loops and user-defined matrices. The program accepts matrix dimensions and elements from the user, verifies whether multiplication is possible, and computes the resulting matrix using the standard matrix multiplication algorithm.
+
+#### Features
+*Accepts custom matrix sizes
+*Takes matrix elements as user input
+*Displays both input matrices
+*Checks matrix multiplication compatibility
+*Performs matrix multiplication using nested loops
+*Displays the resulting matrix
+*Handles invalid matrix dimensions gracefully
+
+#### Concepts Used
+*Variables and data types
+*User input and output
+*Nested loops (for)
+*Lists and list operations
+*Matrix representation using lists
+*Conditional statements (if, else)
+*Matrix multiplication algorithm
+*Algorithmic thinking
+*Problem solving
+
+#### Language
+
+Python
+
 
 ## Learning Outcomes
 
