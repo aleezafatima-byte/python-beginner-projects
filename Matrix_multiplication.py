@@ -12,7 +12,7 @@ for i in range(rows1):
 
 for i in range(rows1):
     for j in range(column1):
-        print(matrix1[i][j],end=" ")
+        print(matrix1[i][j], end=" ")
     print()
 
 rows2=int(input("enter no of rows in second matrix:"))
@@ -29,7 +29,7 @@ for k in range(rows2):
 
 for k in range(rows2):
     for l in range(column2):
-        print(matrix2[k][l],end=" ")
+        print(matrix2[k][l], end=" ")
     print()
 
 if column1==rows2:
@@ -56,7 +56,7 @@ if column1==rows2:
 
     for i in range(rows1):
         for l in range(column2):
-            print(matrix_multiply[i][l],end=" ")
+            print(matrix_multiply[i][l], end=" ")
         print()
 
 else:
