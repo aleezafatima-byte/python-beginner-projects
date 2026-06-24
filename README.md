@@ -333,5 +333,7 @@ The projects provide hands-on experience in implementing mathematical formulas, 
 
 By completing these projects, learners strengthen their algorithmic thinking, computational problem-solving skills, and ability to translate mathematical and physical concepts into working Python programs. The repository serves as a stepping stone toward more advanced topics in computational physics, scientific computing, data analysis, numerical methods, and engineering applications.
 
+## Author
 
+ Aleeza Fatima
 ---
