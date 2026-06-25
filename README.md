@@ -274,6 +274,7 @@ A Python-based mechanics calculator that computes a variety of physical quantiti
 
 Python
 
+---
 
 ## 9. Matrix Multiplication with NumPy
 
@@ -326,6 +327,8 @@ A beginner-friendly Python project that performs matrix multiplication using nes
 #### Language
 
 Python
+
+---
 
 ## 11. Dot Product Calculator
 
