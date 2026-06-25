@@ -364,6 +364,8 @@ A beginner-friendly Python project that calculates the dot product of two vector
 
 Python
 
+---
+
 ## Learning Outcomes
 
 This repository demonstrates the application of Python programming to mathematical computations, problem-solving, numerical methods, and introductory computational physics concepts. Through these projects, learners develop a strong foundation in programming fundamentals, including variables, data types, user input and output, conditional statements, loops, functions, and basic error handling.
