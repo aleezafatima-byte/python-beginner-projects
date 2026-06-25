@@ -332,31 +332,30 @@ Python
 A beginner-friendly Python project that calculates the dot product of two vectors of any user-defined dimension. The program accepts vector components as input, stores them in lists, and computes the dot product using iterative multiplication and summation.
 
 #### Features
-Accepts vectors of any dimension
-Takes vector components as user input
-Stores vectors using Python lists
-Computes the dot product using loops
-Displays both input vectors and the final result
-Demonstrates a fundamental operation in linear algebra and computational physics
-Concepts Used
-Variables and data types
-User input and output
-Lists and list operations
-Loops (for)
-Arithmetic operators
-Accumulator variables
-Linear algebra fundamentals
-Vector mathematics
-Algorithmic thinking
-Problem solving
-Applications
-Vector projections
-Work done by a force
-Angle calculations between vectors
-Physics simulations
-Computational physics
-Numerical methods
-Machine learning and data science fundamentals
+* Accepts vectors of any dimension
+* Takes vector components as user input
+* Stores vectors using Python lists
+* Computes the dot product using loops
+* Displays both input vectors and the final result
+* Demonstrates a fundamental operation in linear algebra and computational physics
+* Concepts Used
+* Variables and data types
+* User input and output
+* Lists and list operations
+* Loops (for)
+* Arithmetic operators
+* Accumulator variables
+* Linear algebra fundamentals
+* Vector mathematics
+* Algorithmic thinking
+* Problem solving
+* Vector projections
+* Work done by a force
+* Angle calculations between vectors
+* Physics simulations
+* Computational physics
+* Numerical methods
+* Machine learning and data science fundamentals
 
 #### Language
 
