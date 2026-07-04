@@ -366,13 +366,57 @@ Python
 
 ---
 
-## Learning Outcomes
+## 12. Simultaneous Equation Solver
 
-This repository demonstrates the application of Python programming to mathematical computations, problem-solving, numerical methods, and introductory computational physics concepts. Through these projects, learners develop a strong foundation in programming fundamentals, including variables, data types, user input and output, conditional statements, loops, functions, and basic error handling.
+A beginner-friendly Python project that solves a system of two linear equations in two variables using the determinant method (Cramer's Rule). The program accepts coefficients from the user, determines whether a unique solution exists, and calculates the values of the unknown variables.
 
-The projects provide hands-on experience in implementing mathematical formulas, sequence generation, unit conversions, matrix operations, and classical physics calculations. They also introduce scientific computing concepts through the use of NumPy and numerical computation techniques.
+### Features
+* Accepts coefficients for two linear equations
+* Displays the entered equations
+* Calculates the determinant
+* Detects when no unique solution exists
+* Computes the values of x and y using Cramer's Rule
+* Displays the final solution
 
-By completing these projects, learners strengthen their algorithmic thinking, computational problem-solving skills, and ability to translate mathematical and physical concepts into working Python programs. The repository serves as a stepping stone toward more advanced topics in computational physics, scientific computing, data analysis, numerical methods, and engineering applications.
+### Concepts Used
+* Variables and data types
+* User input and output
+* Arithmetic operators
+* Conditional statements (if, else)
+* Systems of linear equations
+* Algorithmic thinking
+
+### Language
+
+Python
+
+---
+
+## 13. Simultaneous Equation Solver (Matrix Inverse Method)
+
+A beginner-friendly Python project that solves a system of two linear equations using the inverse of a 2 × 2 coefficient matrix. The program constructs the coefficient matrix and constant matrix, computes the matrix inverse, and multiplies it by the constant matrix to obtain the solution.
+
+### Features
+* Accepts coefficients for two linear equations
+* Creates coefficient and constant matrices
+* Calculates the determinant
+* Checks whether the inverse matrix exists
+* Computes the inverse of a 2 × 2 matrix
+* Solves the system using matrix multiplication
+* Displays the coefficient matrix, inverse matrix, and solution matrix
+* Displays the final values of x and y
+
+### Concepts Used
+* Variables and data types
+* User input and output
+* Lists and nested lists
+* Conditional statements (if, else)
+* Linear algebra fundamentals
+* Algorithmic thinking
+
+### Language
+
+Python
 
 ## Author
 
