@@ -11,6 +11,7 @@ The repository includes mathematical calculators, sequence generators, unit conv
 * User input and output
 * Conditional statements
 * Loops and iteration
+* Functions
 * Arithmetic operators
 * Mathematical computations
 * Mathematical formulas
@@ -417,6 +418,51 @@ A beginner-friendly Python project that solves a system of two linear equations 
 ### Language
 
 Python
+
+---
+
+## 14. Vector Toolkit
+
+A beginner Python project that performs common vector operations for one-vector and two-vector calculations in three-dimensional space.
+
+#### Features
+
+* Magnitude (length) calculation
+* Scalar multiplication
+* Scalar division
+* Vector normalization
+* Vector addition
+* Vector subtraction
+* Distance between two vectors
+* Dot product
+* Cross product (3D)
+* Invalid input handling
+* Division-by-zero checks
+* Reusable vector printing function
+
+#### Concepts Used
+
+* Variables
+* User input
+* Lists (1D arrays)
+* Functions
+* Conditional statements (`if`, `elif`, `else`)
+* List comprehensions
+* Arithmetic operators
+* Mathematical computations
+* Vector mathematics
+* Euclidean distance
+* Dot product calculations
+* Cross product calculations
+* Error handling
+* Output formatting
+* Code reusability
+
+#### Language
+
+Python
+
+---
 
 ## Author
 
